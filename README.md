@@ -48,9 +48,9 @@
 
 ### 📫 Let’s Connect:
 
-- **GitHub:** [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- **LinkedIn:** [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)
-- **Portfolio:** [YourPortfolioSite](https://yourportfolio.com)
+- **GitHub:** [Priyanshu-WebDev-io](https://github.com/Priyanshu-WebDev-io)
+- **LinkedIn:** [Priyanshu Kumar](https://www.linkedin.com/in/priyanshu-kumar-98004a340/)
+- **Portfolio:** [Priyanshu kumar](https://priyanshu.aspenglish.in/)
 
 ---
 
