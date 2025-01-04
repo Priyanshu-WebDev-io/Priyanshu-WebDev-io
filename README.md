@@ -36,7 +36,7 @@
 ---
 
 ### 🏆 Achievements:
-- Loading...
+- Loading..
 
 ---
 
