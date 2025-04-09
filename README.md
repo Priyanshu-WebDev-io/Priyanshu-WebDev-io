@@ -2,7 +2,7 @@
 
 ### I'm Priyanshu Kumar 🌟
 
-#### Full-Stack Web Developer | ETCE Enthusiast | Lifelong Learner
+#### Full-Stack Web Developer | MERN & Next Js | Scalable Webs 
 
 ---
 
@@ -36,7 +36,7 @@
 ---
 
 ### 🏆 Achievements:
-- Loading..
+- Loading Soon...
 
 ---
 
